@@ -1,4 +1,4 @@
-#Checklist pro instalaci - Rails Girls Ostrava 2014
+#Checklist pro instalaci - RG Ostrava
 
 1) Stáhnout [RailsInstaller](https://github.com/railsinstaller/railsinstaller-windows/releases/download/3.0.0-alpha.2/railsinstaller-3.0.0.exe) a spustit ho.
 
