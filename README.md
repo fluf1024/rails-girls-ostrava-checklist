@@ -31,3 +31,5 @@ rails server
 
 1) V minulosti se stávalo, že byl problém s instalací na počítačích, kde byla diakritika v uživatelském jméně - 
 před instalací zkontrolujte jméno uživatele a v případě nutnosti vytvořte jiného bez diakritiky.
+
+2) Na některých počítačích byl občas problém už v základní aplikaci s nefungujícími Turbolinks a obecně s kompilací JS. Po vytvoření appky pomocí ```rails new``` zkuste vytvořit nějaký scaffold a ověřte funkčnost. V případě problémů je potřeba stáhnout a spustit [Windows Installer pro node.js](http://nodejs.org/download/).
