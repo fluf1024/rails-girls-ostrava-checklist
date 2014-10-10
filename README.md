@@ -22,9 +22,9 @@ rails server
 
 6) Aktualizovat [Chrome](http://guides.railsgirls.com/install/google.com/chrome) nebo jej stáhnout a nainstalovat.
 
-7) Vytvořit účet na [Heroku](www.heroku.com)
+7) Vytvořit účet na [Heroku](www.heroku.com).
 
-8) Stáhnout a nainstalovat [Heroku Toolbelt](https://toolbelt.heroku.com/windows) + vyzkoušet vytvoření a deploy aplikace
+8) Stáhnout a nainstalovat [Heroku Toolbelt](https://toolbelt.heroku.com/windows) + vyzkoušet vytvoření a deploy aplikace.
 
 
 ##Časté problémy a jak jim předejít
