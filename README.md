@@ -26,7 +26,7 @@ rails server
 
 8) Stáhnout a nainstalovat [Heroku Toolbelt](https://toolbelt.heroku.com/windows) + vyzkoušet vytvoření a deploy aplikace.
 
-9) Pamatuji si, že spousta holek pár dní po dokončení Railsgirls nevědělo, jak znova spustit appku. Doporučuji udělat holkám .bat soubor na ploše, pomocí kterého se dostanou do adresáře s Rails appkou a budou si ji moct kdykoliv spustit. 
+[9) Některé holky pár dní po dokončení Railsgirls nevěděly, jak znova spustit appku. Pokud budou chtít, doporučuji udělat jim na ploše .bat soubor, pomocí kterého se dostanou do adresáře s Rails appkou a sppustí se jim server.]
 
 ##Časté problémy a jak jim předejít
 
